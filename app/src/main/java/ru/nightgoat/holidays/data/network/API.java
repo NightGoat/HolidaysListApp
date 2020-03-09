@@ -6,7 +6,6 @@ import io.reactivex.Single;
 import retrofit2.http.GET;
 import retrofit2.http.Path;
 import ru.nightgoat.holidays.data.entity.HolidayData;
-import ru.nightgoat.holidays.domain.model.Holiday;
 
 public interface API {
 
